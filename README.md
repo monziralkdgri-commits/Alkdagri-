@@ -1,0 +1,2 @@
+# Alkdagri-
+&lt;!DOCTYPE html>&lt;html lang="ar" dir="rtl">&lt;head>&lt;meta charset="UTF-8">&lt;title>Alkdagri&lt;/title>&lt;/head>&lt;body style="background:#1e3c72;color:#fff;text-align:center;padding:30px;font-family:Arial">&lt;h1>Alkdagri&lt;/h1>&lt;p>ال الكدقري في السودان ولاية نهر النيل محلية حجر العسل ومنهم الخليفة احمد ابن الكدقري وابنائه الحسن وعثمان ومحمد وحامد.&lt;/p>&lt;/body>&lt;/html>
